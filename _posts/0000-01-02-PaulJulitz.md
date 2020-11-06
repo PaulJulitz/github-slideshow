@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our Atom"
 ---
-"My new entry"
+"Franziska ist die beste."
 Use the left arrow to go back!
