@@ -7,3 +7,5 @@ title: "Welcome to our Atom"
 Use the left arrow to go back!
 "Change this here".
 "Mal sehen, was jetzt passiert."
+"Zweiter Test"
+
